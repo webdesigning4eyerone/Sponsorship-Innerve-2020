@@ -1,0 +1,61 @@
+h1,h2{
+text-align:center;
+font-family: 'Bellota Text';
+}
+#mainsponsor{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+	text-shadow: 2px 2px rgb(220,220,220,0.4);
+	text-align: center;
+	color:#ffffff;
+	font-family: 'Bellota Text';
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 36%, rgba(0,212,255,1) 100%);
+	 padding:1% 11% 1% 7%;
+	 font-size: 500%;
+}
+#mainsponsor:hover{
+  	opacity:0.5;
+
+  }
+body{
+	
+background: rgb(192,244,255);
+background: linear-gradient(90deg, rgba(192,244,255,1) 0%, rgba(255,255,255,1) 51%, rgba(174,241,255,1) 100%);
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+
+.other-sponsors{
+	display: inline-block;
+ margin:auto;
+ padding: 1% 1% 1% 1%;
+  width: 30%;
+
+}
+#sponsor-images{
+	margin: auto;
+	margin-left: 8%;
+
+}
+.other-sponsors:hover{
+	opacity: 0.5;
+
+}
+  footer{
+
+	text-align: center;
+	color:#ffffff;
+	font-family: 'Bellota Text';
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 36%, rgba(0,212,255,1) 100%);
+	 padding:1% 11% 1% 7%;
+
+	
+}
+
